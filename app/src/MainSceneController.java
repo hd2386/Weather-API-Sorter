@@ -53,7 +53,7 @@ import javafx.util.Callback;
 
 public class MainSceneController {
 
-    public static final String API_KEY = "92c8655787msh7ea35a1c5b792ebp1e18dbjsne33e6f59238a";
+    public static final String API_KEY = "";
 
     @FXML
     private Button Sendbutton;
